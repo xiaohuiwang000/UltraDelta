@@ -5,7 +5,7 @@ This repository is the official implementation of **"Breaking the Compression Ce
 📢 *This paper has been accepted at NeurIPS 2025.*
 
 <p align="center">
-  <img src="./assets/ultradelta.png" alt="UltraDelta Pipeline Overview" width="700">
+  <img src="asset\ultradelta.png" alt="UltraDelta Pipeline Overview" width="700">
 </p>
 
 ---
