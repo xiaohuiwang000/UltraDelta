@@ -81,10 +81,11 @@ bash run.sh
 If you find this work useful, please cite:
 
 ```bibtex
-@article{wang2025breaking,
+@inproceedings{
+  wang2025breaking,
   title={Breaking the Compression Ceiling: Data-Free Pipeline for Ultra-Efficient Delta Compression},
-  author={Wang, Xiaohui and Ye, Peng and Huang, Chenyu and Zheng, Shenghe and Zhang, Bo and Bai, Lei and Ouyang, Wanli and Chen, Tao},
-  journal={arXiv preprint arXiv:2505.13563},
+  author={Xiaohui Wang and Peng Ye and Chenyu Huang and Shenghe Zheng and Bo Zhang and Lei Bai and Wanli Ouyang and Tao Chen},
+  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
   year={2025}
 }
 ```
