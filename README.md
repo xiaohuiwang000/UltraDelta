@@ -81,12 +81,12 @@ bash run.sh
 If you find this work useful, please cite:
 
 ```bibtex
-@inproceedings{
-  wang2025breaking,
-  title={Breaking the Compression Ceiling: Data-Free Pipeline for Ultra-Efficient Delta Compression},
-  author={Xiaohui Wang and Peng Ye and Chenyu Huang and Shenghe Zheng and Bo Zhang and Lei Bai and Wanli Ouyang and Tao Chen},
-  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
-  year={2025}
+@inproceedings{wang2025ultradelta,
+  title     = {Breaking the Compression Ceiling: Data-Free Pipeline for Ultra-Efficient Delta Compression},
+  author    = {Wang, Xiaohui and Ye, Peng and Huang, Chenyu and Zheng, Shenghe and Zhang, Bo and Bai, Lei and Ouyang, Wanli and Chen, Tao},
+  booktitle = {Advances in Neural Information Processing Systems},
+  year      = {2025},
+  url       = {https://proceedings.neurips.cc/paper_files/paper/2025/file/21912f7057935149fa58408ee8cb460e-Paper-Conference.pdf}
 }
 ```
 
